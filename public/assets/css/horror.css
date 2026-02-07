@@ -1,0 +1,35 @@
+.post-card {
+  background: rgba(20, 20, 20, 0.95);
+  border-left: 3px solid #400;
+  padding: 1.2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 12px rgba(0,0,0,0.6);
+  transition: box-shadow 0.6s ease;
+}
+
+.post-card:hover {
+  box-shadow: 0 0 18px rgba(120,0,0,0.5);
+}
+
+.post-card h3 {
+  margin: 0 0 0.5rem;
+}
+
+.meta {
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+.notice {
+  margin-top: 1rem;
+  font-size: 0.75rem;
+  opacity: 0.6;
+}
+
+.badge-official {
+  font-size: 0.7rem;
+  color: #fff;
+  background: #600;
+  padding: 0.2rem 0.4rem;
+  margin-right: 0.5rem;
+}

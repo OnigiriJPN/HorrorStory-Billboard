@@ -1,0 +1,9 @@
+@media (max-width: 600px) {
+  body {
+    font-size: 0.95rem;
+  }
+
+  .site-header {
+    padding: 1.2rem;
+  }
+}
